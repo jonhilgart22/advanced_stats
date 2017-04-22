@@ -1,0 +1,39 @@
+# Create environment:
+# $ conda env create --force
+name: stats
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python = 3.6
+  - ipython
+  - anaconda
+  - jupyter
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - statsmodels 
+  - pymc3
+  - pystan
+  - matplotlib
+  - seaborn
+  - plotly
+  - bokeh
+  - setuptools
+  - pip
+  - pip:
+    - rise
+    - nbbrowserpdf
+    - ipy-table
+    
+# Start environment:
+# $ source activate stats
+
+# Update environment (might break stuff. move fast!?)
+# $ conda update --all --yes
+# $ pip install --upgrade -r <( pip freeze )
+
+# Setup RISE (https://github.com/damianavila/RISE) slideshows:
+# $ jupyter nbextension install rise --py --sys-prefix
+# $ jupyter nbextension enable rise --py --sys-prefix
