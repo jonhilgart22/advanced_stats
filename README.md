@@ -17,9 +17,7 @@ Logistics
 ------
 
 __Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com)  
-__Instructor:__ Dr. Jing   
-__Office Hours:__   
-	- Brian Wednesdays 11:30-12n & By Appointment  
+__Office Hours:__ Wednesdays 11:30-12n & By Appointment  
 
 __Class Location:__ 44 Tehama St, 309 classroom, San Francisco, CA   
 __Class Days/Times:__ 9a-11a & 2p-4p, Tuesday & Thursday
@@ -43,8 +41,11 @@ Advanced Applied Statistics is designed to provide a solid training in advanced,
 
 ### Out of Scope
 
-- Visualization & mapping
+- Visualization & Mapping
 - Survey data & ANOVA
+- Statistical power and sample size
+- Regression
+- Regularization
 - Advanced Python
 - R programming language
 
@@ -56,14 +57,14 @@ Advanced Applied Statistics is designed to provide a solid training in advanced,
 
 ### Required Resources  
 
-There is no required textbook for this course.
+[The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
 ### Optional resources
 
-- Machine Learning: A Probabilistic Perspective, by Kevin P. Murphy
-- Bayesian Methods for Hackers, by Cameron Davidson-Pilon
-- Introduction to Time Series and Forecasting, by P. Brockwell and R. Davis
-- Time Series Analysis and Its Applications: With R Examples, by Robert H. Shumway and David S. Stoffer
+- Machine Learning: A Probabilistic Perspective by Kevin P. Murphy
+- Bayesian Methods for Hackers by Cameron Davidson-Pilon
+- Introduction to Time Series and Forecasting by P. Brockwell and R. Davis
+- Time Series Analysis and Its Applications: With R Examples by Robert H. Shumway and David S. Stoffer
 
 ----
 Class Structure
@@ -77,14 +78,14 @@ In-class time is precious - We'll reserve it for discussion, presenting complex 
 
 Typical class structure:
 
-1. On Your Own (OYO) activity
-1. RAT (Readiness Assessment Test)
+1. Discussion
+1. Q&A / RAT (Readiness Assessment Test)
 1. Lecture
 1. Lab
 
-### Complete On Your Own (OYO) activity
+### Discussion
 
-OYO activity is a creative activity to help you to thinking more deeply the preparation materials.
+The Discussion is a creative activity to help you to thinking more deeply the preparation materials.
 
 ### RATs
 
@@ -164,7 +165,7 @@ Students who are dishonest in any class assignment or exam will receive an "F" i
 Course Schedule
 ----
 
-1. Welcome / Remembering Statistics (5/23 & 5/25)
+1. Fundamentals Statistics, aka unforgetting Stats (5/23 & 5/25)
 	1. Welcome
 	2. Statistics Fundamentals
 	3. Probability
@@ -179,27 +180,27 @@ Course Schedule
 	2. Expectation–maximization (EM)
 	3. Kalman Filters
 	4. Review / Final Project Check-in 
-4. Bayes (6/13 & 6/15)
-	1. Bayes Theorem
+4. Bayesian Modeling (6/13 & 6/15)
+	1. Bayesian Modeling
 	2. A/B Testing
 	3. Multi-arm Bandits
 	4. Bayesian Optimization
-5. Bayesian Methods (6/20 & 6/22)
-	1. Probabilistic Programming
-	2. MCMC I
-	3. MCMC II
+5. Stochastic Processes (6/20 & 6/22)
+	1. Monte Carlo Integration
+	2. Rejection and Importance Sampling 
+	3. Markov Chains
 	4. Gibbs Sampling
 6. UNH Holiday 🏖🍹🎆 (6/27 & 6/29)
-7. Regression (7/5 & 7/6)
-	1.  Regression Review
-	2.  Polynomial regression
-	3.  Bayesian regression I
-	4.  Bayesian regression II
-8. Time Series (7/11 & 7/13)
-	1. Time Series Introduction
-	2. ARIMA
-	3. Advanced time series I
-	4. Advanced time series II
+7. Time Series I (7/5 & 7/6)
+	1. Time Series Fundamentals
+	2. MA Models, PACF 
+	3. ARIMA
+	4. Seasonal Models
+8. Time Series II (7/11 & 7/13)
+	1. Smoothing and Decomposition Methods
+	2. The Periodogram
+	3. Longitudinal Analysis / Repeated Measures
+	4. Anomaly Detection
 9. Finals Week (7/18 & 7/20)
 	1. Review
 	2. Final Project Worksession
