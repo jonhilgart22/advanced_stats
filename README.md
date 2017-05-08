@@ -165,41 +165,44 @@ Students who are dishonest in any class assignment or exam will receive an "F" i
 Course Schedule
 ----
 
+Current: https://paper.dropbox.com/doc/Advanced-Statistics-Subtopics-UvgWvESHdcBGaew0xxnOI
+
+Possibly Out-of-date:
 1. Fundamentals Statistics, aka unforgetting Stats (5/23 & 5/25)
 	1. Welcome
-	2. Statistics Fundamentals
+	2. Statistical Fundamentals
 	3. Probability
 	4. Distributions
 2. Information Theory & Likelihood (5/30 & 6/1)
 	1. Information Theory I
 	2. Information Theory II
-	3. Likelihood
-	4. Maximum likelihood estimation (MLE)
+	3. Maximum likelihood estimation (MLE)
+	4. Maximum a posteriori (MAP)
 3. Estimation (6/6 & 6/8)
-	1. Maximum a posteriori (MAP)
-	2. Expectation–maximization (EM)
-	3. Kalman Filters
+	1. Expectation–maximization (EM)
+	2. Kalman Filters
+	3. Bayesian Modeling
 	4. Review / Final Project Check-in 
 4. Bayesian Modeling (6/13 & 6/15)
-	1. Bayesian Modeling
+	1. Bayesian Regression
 	2. A/B Testing
 	3. Multi-arm Bandits
 	4. Bayesian Optimization
 5. Stochastic Processes (6/20 & 6/22)
 	1. Monte Carlo Integration
 	2. Rejection and Importance Sampling 
-	3. Markov Chains
+	3. Markov Chain Monte Carlo (MCMC)
 	4. Gibbs Sampling
 6. UNH Holiday 🏖🍹🎆 (6/27 & 6/29)
 7. Time Series I (7/5 & 7/6)
 	1. Time Series Fundamentals
-	2. MA Models, PACF 
+	2. Moving Average Models
 	3. ARIMA
 	4. Seasonal Models
 8. Time Series II (7/11 & 7/13)
-	1. Smoothing and Decomposition Methods
-	2. The Periodogram
-	3. Longitudinal Analysis / Repeated Measures
+	1. Uplift Modeling
+	2. Proportional Hazards models
+	3. Nonlinear Time Series Models
 	4. Anomaly Detection
 9. Finals Week (7/18 & 7/20)
 	1. Review
