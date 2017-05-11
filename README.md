@@ -16,7 +16,8 @@ Table of Contents:
 Logistics
 ------
 
-__Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com)  
+__Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com) __weeks 1-4__
+__Instructor:__ TBD __weeks 5-9__
 __Office Hours:__ Wednesdays 11:30-12n & By Appointment  
 
 __Class Location:__ 44 Tehama St, 309 classroom, San Francisco, CA   
@@ -136,7 +137,7 @@ Attendance is mandatory. It is the responsibility of the student to attend all c
 
 ### Final Project
 
-Details will be covered in a future class (mostly likely tomorrow).
+Details will be covered in a future class.
 
 -----
 Course Policies
