@@ -1,11 +1,11 @@
-GalvanizeU-University of New Haven <br> Master of Science in Data Science <br> DSCI6008a: Advanced Statistics
+GalvanizeU-University of New Haven <br> Master of Science in Data Science <br> DSCI6008a: Advanced Applied Statistics
 ----
 
 ![](http://imgs.xkcd.com/comics/correlation.png)
 
 Table of Contents:
 ----
-- [Logistics](#logistic)
+- [Logistics](#logistics)
 - [Course Description](#course-description)
 - [Class Structure](#class-structure)
 - [Grades](#grades)
@@ -18,7 +18,7 @@ Logistics
 
 __Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com) __weeks 1-4__
 __Instructor:__ TBD __weeks 5-9__
-__Office Hours:__ Wednesdays 11:30-12n & By Appointment  
+__Office Hours:__ By Appointment  
 
 __Class Location:__ 44 Tehama St, 309 classroom, San Francisco, CA   
 __Class Days/Times:__ 9a-11a & 2p-4p, Tuesday & Thursday
@@ -30,25 +30,24 @@ __Communication:__ [`#gu4_sf_adv_stats`](https://gstudents.slack.com/messages/C4
 Course Description
 ----
 
-Advanced Applied Statistics is designed to provide a solid training in advanced, practical statistical data analysis and modeling. The course will cover data analysis, Bayesian statistics, time series analysis, stochastic processes, estimation methods and case studies. 
+Advanced Applied Statistics will provide solid training in advanced, practical statistical data analysis and modeling. The course will cover data analysis, Bayesian statistics, time series analysis, stochastic processes, estimation methods.
 
 ### By the end of this course, you should be able to:
 
 - Carry out advanced data analysis to solve Data Science problems
+- Construct Bayesian models to model statistical uncertainty
+- Create statistical estimates of parameters
 - Perform A/B testing
 - Make forecast based on time series data
-- Construct Bayesian models to account for statistical uncertainty
-- Create statistical estimates of parameters
 
 ### Out of Scope
 
-- Visualization & Mapping
-- Survey data & ANOVA
+- Visualization and mapping
+- Survey data and ANOVA
 - Statistical power and sample size
-- Regression
 - Regularization
 - Advanced Python
-- R programming language
+- The R programming language
 
 ### Prerequisites
 
@@ -73,7 +72,7 @@ Class Structure
 
 This course is an "active" learning environment. You'll learn through doing. The focus will be applying concepts through hand calculations and programming.
 
-Before class you will complete preparation materials (e.g., watch videos and read book chapters / blogs). All preparation materials should be covered prior to the start of each class session. They are __always required__ unless explicitly labeled as optional. These materials will be the resource for factual knowledge. I (Brian) will not be delivering traditional lectures. You are expected to be familiar with the basic concepts and technical jargon before the start of class.
+Before class you will complete preparation materials (e.g., watch videos and read book chapters / blogs). All preparation materials should be covered prior to the start of each class session. They are __always required__ unless explicitly labeled as optional. These materials are the resources for factual knowledge. I (Brian) will not be delivering traditional lectures. You are expected to be familiar with the basic concepts and technical jargon before the start of class.
 
 In-class time is precious - We'll reserve it for discussion, presenting complex material, answering questions, and working on exercises.  
 
@@ -166,9 +165,6 @@ Students who are dishonest in any class assignment or exam will receive an "F" i
 Course Schedule
 ----
 
-Current: https://paper.dropbox.com/doc/Advanced-Statistics-Subtopics-UvgWvESHdcBGaew0xxnOI
-
-Possibly Out-of-date:
 1. Fundamentals Statistics, aka unforgetting Stats (5/23 & 5/25)
 	1. Welcome
 	2. Statistical Fundamentals
@@ -191,7 +187,7 @@ Possibly Out-of-date:
 	4. Bayesian Optimization
 5. Stochastic Processes (6/20 & 6/22)
 	1. Monte Carlo Integration
-	2. Rejection and Importance Sampling 
+	2. Importance Sampling 
 	3. Markov Chain Monte Carlo (MCMC)
 	4. Gibbs Sampling
 6. UNH Holiday 🏖🍹🎆 (6/27 & 6/29)
