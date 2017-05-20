@@ -17,7 +17,7 @@ Logistics
 ------
 
 __Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com) __weeks 1-4__
-__Instructor:__ TBD __weeks 5-9__
+__Instructor:__ Robert Winslow __weeks 5-9__
 __Office Hours:__ By Appointment  
 
 __Class Location:__ 44 Tehama St, 309 classroom, San Francisco, CA   
