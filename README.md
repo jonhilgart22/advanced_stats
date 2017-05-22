@@ -16,12 +16,12 @@ Table of Contents:
 Logistics
 ------
 
-__Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com) __weeks 1-4__
-__Instructor:__ Robert Winslow __weeks 5-9__
+__Instructor:__ Dr. Brian Spiering [brian.spiering@galvanize.com](mailto:brian.spiering@galvanize.com)  
+__Instructor:__ Robert Winslow  
 __Office Hours:__ By Appointment  
 
 __Class Location:__ 44 Tehama St, 309 classroom, San Francisco, CA   
-__Class Days/Times:__ 9a-11a & 2p-4p, Tuesday & Thursday
+__Class Days/Times:__ 9a-11a & 2p-4p, Tuesday & Thursday  
 __Lab Days/Times:__ 11a-12n & 4p-5p, Tuesday & Thursday
 
 __Communication:__ [`#gu4_sf_adv_stats`](https://gstudents.slack.com/messages/C4ZGX73K3)
@@ -30,30 +30,32 @@ __Communication:__ [`#gu4_sf_adv_stats`](https://gstudents.slack.com/messages/C4
 Course Description
 ----
 
-Advanced Applied Statistics will provide solid training in advanced, practical statistical data analysis and modeling. The course will cover data analysis, Bayesian statistics, time series analysis, stochastic processes, estimation methods.
+Advanced Applied Statistics will provide training in advanced, practical statistical data analysis and modeling. The course will cover fundamental data analysis, Bayesian statistics, time series analysis, stochastic processes, and stimulation based estimation methods.
 
 ### By the end of this course, you should be able to:
 
 - Carry out advanced data analysis to solve Data Science problems
+- Explain fundamental statistical concepts
 - Construct Bayesian models to model statistical uncertainty
 - Create statistical estimates of parameters
 - Perform A/B testing
-- Make forecast based on time series data
+- Make time series forecasts
 
 ### Out of Scope
 
 - Visualization and mapping
 - Survey data and ANOVA
-- Statistical power and sample size
+- Statistical power and sample size estimation
+- Probabilistic graphical models (PGMs)
 - Regularization
 - Advanced Python
 - The R programming language
 
 ### Prerequisites
 
-- DSCI 6001: Linear Algebra
+- DSCI 6001: Mathematics for Data Scientists
 - DSCI 6002: Data Exploration, Feature Engineering, and Statistics for Data Scientists
-- DSCI 6003: Machine Learning I
+- DSCI 6003: Machine Learning and Data Analysis I
 
 ### Required Resources  
 
