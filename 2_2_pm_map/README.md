@@ -3,8 +3,9 @@ Maximum A Posteriori (MAP) Estimation
 
 __Required__:
 
-- [Maximum a posteriori (MAP) estimation videos](https://www.youtube.com/watch?v=kkhdIriddSI)
-- ML, MAP, and Bayesian — The Holy Trinity of Parameter Estimation and Data Prediction in readings folder
+- Watch [Maximum a posteriori (MAP) estimation videos](https://www.youtube.com/watch?v=kkhdIriddSI)
+- Read "ML, MAP, and Bayesian — The Holy Trinity of Parameter Estimation and Data Prediction" in readings folder
+- Read ELS Sections 8.2.3, 8.3, 8.4 on Bayesian Methods
 
 __Challenge__:
 
