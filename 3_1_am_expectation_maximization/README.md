@@ -16,6 +16,7 @@ __Required__:
 __Challenge__:
 
 - "EM Demystified- An Expectation-Maximization Tutorial" in readings folder
+- [Theoritcal Statisical approach to EM](http://www.stat.ucla.edu/~dinov/courses_students.dir/04/Spring/Stat233.dir/STAT233_notes.dir/EM_Tutorial)
 - Chinese Restaurant process & The Indian Buffet Process    
     + [Listen to Talking Machines eposide](http://www.thetalkingmachines.com/blog/2015/3/26/3mixrq61fb0tff4kn0mrkzsw2xma98)
     - https://en.wikipedia.org/wiki/Chinese_restaurant_process#The_Indian_buffet_process
