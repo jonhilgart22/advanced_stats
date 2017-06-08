@@ -21,6 +21,10 @@ __Optional__:
 - [The Three Faces of Bayes](https://slackprop.wordpress.com/2016/08/28/the-three-faces-of-bayes/)
 - [Visualizing Bayes Theorem](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
 - [How Bayesian Inference Works](http://brohrer.github.io/how_bayesian_inference_works.html)
+-  Probabilistic Programming with PyMC3
+    + [video](https://www.youtube.com/watch?v=5TyvJ6jXHYE)
+    + [slides](https://speakerdeck.com/pycon2017/christopher-fonnesbeck-probabilistic-programming-with-pymc3)
+- Error rate handing with sequential model testing, aka The Stats Engine in readings folder
 
 __Challenge__:
 
