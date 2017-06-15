@@ -10,7 +10,7 @@ __Required__:
 
 - Using Bayesian Optimization to Tune Machine Learning Models
     + [video](https://www.youtube.com/watch?v=J6UcAdH54RE)
-    + [slides](Using Bayesian Optimization to Tune Machine Learning Models)
+    + [slides](https://www.slideshare.net/SigOpt/using-bayesian-optimization-to-tune-machine-learning-models-62205716)
 - Bayesian optimization with scikit-learn
     + [video](https://www.youtube.com/watch?v=jtRPxRnOXnk)
     + slides in readings folder
@@ -19,6 +19,7 @@ __Required__:
 __Optional__:
 
 - "A Tutorial on  Bayesian Optimization for Machine Learning" in readings folder
+- [Bayesian Optimization: From A/B Testing To A-Z Testing](https://vimeo.com/109937337)
 - Bayesian optimization with Scikit-Optimize
     + [video](https://www.youtube.com/watch?v=DGJTEBt0d-s)
     + [slides](https://docs.google.com/presentation/d/1Mkh3UiEEPfPZWkD2w65keAD-iL9GobaF2-BMqcNsRaE/edit#slide=id.g742e3e7cd_1_16)
